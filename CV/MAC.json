@@ -1,0 +1,464 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yago",
+      "surnames": "Cousiño",
+      "title": "Manfred / La Media Inglesa",
+      "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/09/dddde4b4-20c8-403a-840a-c17475b601fa_1516186062727.1516186062727"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/cousy14"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Entusiasta de los deportes",
+        "fact": "Desde los 18 años colaboro en distintos proyectos de periodismo deportivo, en los que he tomado roles de creador de contenido y de desarrollo de negocio. "
+      },
+      {
+        "topic": "Los Beatles son mi grupo favorito",
+        "fact": "Desde pequeñito"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Infinite Game",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Simon",
+            "surnames": "Sinek",
+            "title": "Author"
+          }
+        ],
+        "summary": "El Juego Infinito (2019) es manual para que los líderes empresariales construyan empresas que durarán generaciones. Los precios de las acciones se tienen en cuenta para determinar el rendimiento de una empresa. En los medios, un desfile interminable de analistas de Wall Street le dice a la gente cuándo comprar y cuándo vender. Pero la fortaleza de una empresa está determinada por algo más que el precio de sus acciones en un día determinado. Si un director ejecutivo solo se preocupa por el precio de las acciones y por hacer felices a los accionistas, está optando por pan para hoy y hambre para mañana. Nuestro trabajo como líderes es tener en cuenta todo el contexto y la visión a largo plazo de la empresa. "
+      },
+      {
+        "title": "Inspired",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Marty",
+            "surnames": "Cagan",
+            "title": "Author"
+          }
+        ],
+        "summary": "En “Inspired”, nos cuenta los principios que hacen que algunos productos se destaquen y sean un gran éxito en el mercado y comparte las mejores prácticas de las compañías más grandes de tecnología en Silicon Valley. ¿Es un empresario, diseñador o sueña con lanzar un producto tecnológico? "
+      },
+      {
+        "title": "Lenny's newsletter",
+        "type": "other",
+        "URL": "https://www.lennysnewsletter.com/",
+        "authors": [
+          {
+            "name": "Lenny",
+            "surnames": "Rachitsky",
+            "title": "Author"
+          }
+        ],
+        "summary": "A weekly advice column about product, growth, working with humans, and anything else that’s stressing you out about work"
+      },
+      {
+        "title": "Open: Andre Agassi Memories",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Andre",
+            "surnames": "Agassi",
+            "title": "Author"
+          }
+        ],
+        "summary": "Open es la semblanza a corazón abierto de Andre Agassi, que en estas memorias se muestra tal como es: un hombre que debió enfrentarse a las presiones de su familia, de la fama, pero que siempre conservó el valor de la amistad y un sentido altruista de la vida.\n\n"
+      },
+      {
+        "title": "Podkast de KFund",
+        "type": "other",
+        "URL": "https://open.spotify.com/show/4fIVIKsz8V2jGDdZ8CTDBk",
+        "authors": [
+          {
+            "name": "Jaime",
+            "surnames": "Novoa",
+            "title": "Author"
+          }
+        ],
+        "summary": "El PodKast de K Fund es un podcast sobre startups, emprendedores y Venture Capital. Cada mes publicamos entrevistas con fundadores de empresas tecnológicas y los inversores que las apoyan."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "Manfred Logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/21/927ee597-703b-4e1c-a8ad-9c28ba45bb06_manfred-logo.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/manfred?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Junior Product Manager",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Involucrado en el ciclo completo de vida del producto desde la misma concepción del Producto(s) de Manfred hasta el detalle de la entrega. Todo esto, siendo clave en la formación del equipo técnico y la construcción de la base que nos ha permitido lanzar nuestro primer producto y crecer. Empleamos un enfoque de entrega de valor continuo bajo el cual estamos desplegando y entregando mejoras a nuestros usuarios con frecuencia (casi) semanal. \n\nSiempre bajo el paraguas de los miembros más Senior del equipo y con el agilismo por bandera."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Media Inglesa",
+          "image": {
+            "alt": "Logo-LMI-HD.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/21/41f857a9-6dc0-440a-8df4-fe028c8b993f_logo-lmi-hd.svg"
+          },
+          "URL": "https://www.linkedin.com/company/la-media-inglesa?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Business Developer",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Design of the project's revenue streams, from general strategy to its applications. Emphasis in sponsorships, automation of the processes of the shop and the creation of digital and on-site events. Design of the project's revenue streams, from general strategy to its applications. Emphasis in sponsorships, automation of the processes of the shop and the creation of digital and on-site events."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "URL": "https://www.linkedin.com/company/manfred?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Scout - Operations - Business Development - (former)Minority Partner",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Wing .es",
+          "URL": "https://www.linkedin.com/company/thewing?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Co Founder",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Co founder of The Wing, a content platform dedicated to inform and follow the NBA. In charge of duties related to marketing, sponsorships, webdesign and other tasks related to being part of the Board of Directors. Co founder of The Wing, a content platform dedicated to inform and follow the NBA. In charge of duties related to marketing, sponsorships, webdesign and other tasks related to being part of the Board of Directors."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Start UC3M",
+          "URL": "https://www.linkedin.com/company/start-uc3m?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Vice President",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Locomotora",
+          "URL": "https://www.linkedin.com/company/la-locomotora?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Telegraphist",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": "Developing tasks related to the Marketing and Business area in a dynamic environment. Involved into the creation of the initial projects at La Locomotora. Developing tasks related to the Marketing and Business area in a dynamic environment. Involved into the creation of the initial projects at La Locomotora."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Isigano.com",
+          "URL": "https://www.linkedin.com/company/isigano?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Becario de marketing y relaciones públicas",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-08-31",
+            "challenges": [
+              {
+                "description": "Digital Marketing intern: content creation and social media management; experience with Google Analytics; creation of a newsletter and search for new partnerships. In the offline events and promotion team. Digital Marketing intern: content creation and social media management; experience with Google Analytics; creation of a newsletter and search for new partnerships. In the offline events and promotion team."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket-Despacho de Auerbach"
+        },
+        "roles": [
+          {
+            "name": "Podcast host and interviewer",
+            "startDate": "2015-06-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Host and director of the biweekly podcast of El Despacho de Auerbach. Interviewer of different NBA personalities such as Jalen Rose, Kenneth Faried or Bruce Bowen. Host and director of the biweekly podcast of El Despacho de Auerbach. Interviewer of different NBA personalities such as Jalen Rose, Kenneth Faried or Bruce Bowen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Editor",
+            "startDate": "2013-12-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "Organización del equipo de redactores de Los Ángeles Clippers, redacción de distintas noticias y artículos de análisis tanto para Clippers como para la redacción de Boston Celtics. Organización del equipo de redactores de Los Ángeles Clippers, redacción de distintas noticias y artículos de análisis tanto para Clippers como para la redacción de Boston Celtics."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "TalentUP",
+          "URL": "http://startuc3m.com/talentup/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Proyecto de prueba",
+          "description": "Proyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de pruebaProyecto de prueba",
+          "URL": "https://getmanfred.com/blog"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Abstract",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Logro Test Instrumentaciónhfghgfh",
+          "description": "egsfgfdgrefghfghfgfghfghfdh"
+        },
+        "type": "achievement",
+        "publishingDate": "2011-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "ghfghfg"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Preact",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificación de prueba",
+        "startDate": "1996-05-01",
+        "institution": {
+          "name": "Mi casa",
+          "description": "Certificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de pruebaCertificación de prueba"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Exchange Program Business Administration",
+        "startDate": "2015-01-01",
+        "finishDate": "2016-12-31",
+        "institution": {
+          "name": "Texas A&M University",
+          "description": "Actividades y grupos: E-Society (Asociación de emprendedores)\nActividades con la asociación de estudiantes internacionalesActividades y grupos: E-Society (Asociación de emprendedores) \nActividades con la asociación de estudiantes internacionales\n\nRealización de un programa de intercambio de un año en Texas A&M University. Asignaturas seleccionadas de las ramas de Marketing, Finanzas y Gestión de RRHH. En ella pude practicar varios deportes e involucrarme en distintas actividades relacionadas con el emprendimiento además de perfeccionar mi nivel de inglés.",
+          "URL": "https://www.linkedin.com/school/texas-a&m-university/",
+          "image": {
+            "alt": "TAM-LogoBox.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/21/5a79e688-7bff-4675-b992-9031d0d18296_tam-logobox.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado ADE en inglés",
+        "startDate": "2013-01-01",
+        "finishDate": "2017-12-31",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "URL": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid/",
+          "image": {
+            "alt": "logo uc3m.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/21/0ac02959-1bd1-4cc7-a10c-47ad25a0e3b8_logo-uc3m.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Primary School, Middle School and High School Ciencias sociales",
+        "startDate": "2001-01-01",
+        "finishDate": "2013-12-31",
+        "institution": {
+          "name": "Colegio Apóstol Santiago Vigo",
+          "description": "Actividades y grupos: Equipo de fútbol, equipo de baloncesto, atletismo, voluntariado de todo tipo, cursos de inglés, premios literarios.",
+          "image": {
+            "alt": "logo apostol santiago.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/21/224ce999-9a15-44b9-87ba-09612b9bba7b_logo-apostol-santiag.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
