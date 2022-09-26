@@ -41,6 +41,26 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "TEst Job Position",
+            "startDate": "2011-05-01",
+            "challenges": [
+              {
+                "description": "TEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job Position"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
