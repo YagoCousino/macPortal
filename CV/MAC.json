@@ -41,33 +41,6 @@
       }
     ]
   },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred"
-        },
-        "roles": [
-          {
-            "name": "Test Job Position",
-            "startDate": "2015-03-01",
-            "finishDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": "Test Job PositionTest Job PositionTest Job PositionTest Job PositionTest Job PositionTest Job PositionTest Job PositionTest Job PositionTest Job Position"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Abap",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
