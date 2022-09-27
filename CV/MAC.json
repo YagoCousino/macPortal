@@ -58,6 +58,17 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Test"
+        },
+        "roles": [
+          {
+            "name": "Posición prueba",
+            "startDate": "1991-05-01"
+          }
+        ]
       }
     ]
   },
