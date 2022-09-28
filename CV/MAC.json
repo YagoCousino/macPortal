@@ -69,7 +69,9 @@
     "preferences": {
       "preferredCompetences": [],
       "discardedCompetences": [],
-      "preferredRoles": []
+      "preferredRoles": [
+        ""
+      ]
     }
   }
 }
