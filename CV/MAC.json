@@ -1,13 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
-      "name": null,
-      "surnames": null,
       "title": "Manfred / La Media Inglesa",
       "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .",
       "avatar": {
@@ -17,8 +15,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -40,59 +37,46 @@
         "topic": "Los Beatles son mi grupo favorito",
         "fact": "Desde pequeñito"
       }
-    ],
-    "recommendations": []
+    ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Manfred",
-          "URL": null
+          "name": "Manfred"
         },
         "roles": [
           {
             "name": "TEst Job Position",
             "startDate": "2011-05-01",
-            "finishDate": "",
             "challenges": [
               {
                 "description": "TEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job Position"
               }
             ],
-            "competences": []
+            "competences": [
+              {
+                "name": "Akka",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Test",
-          "URL": null
+          "name": "Test"
         },
         "roles": [
           {
             "name": "Posición prueba",
-            "startDate": "1991-05-01",
-            "finishDate": "",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": []
+            "startDate": "1991-05-01"
           }
         ]
       }
-    ],
-    "projects": [],
-    "publicArtifacts": []
+    ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": ""
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -100,8 +84,7 @@
           "type": "technology"
         }
       }
-    ],
-    "studies": []
+    ]
   },
   "careerPreferences": {
     "contact": {
@@ -110,13 +93,6 @@
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
         }
-      ]
-    },
-    "preferences": {
-      "preferredCompetences": [],
-      "discardedCompetences": [],
-      "preferredRoles": [
-        ""
       ]
     }
   }
