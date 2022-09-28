@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -39,38 +40,22 @@
         "topic": "Los Beatles son mi grupo favorito",
         "fact": "Desde pequeñito"
       }
-    ]
+    ],
+    "recommendations": []
   },
   "experience": {
-    "jobs": [
+    "jobs": [],
+    "projects": [],
+    "publicArtifacts": []
+  },
+  "knowledge": {
+    "languages": [
       {
-        "organization": {
-          "name": "Manfred"
-        },
-        "roles": [
-          {
-            "name": "TEst Job Position",
-            "startDate": "2011-05-01",
-            "challenges": [
-              {
-                "description": "TEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job Position"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Test"
-        },
-        "roles": [
-          {
-            "name": "Posición prueba",
-            "startDate": "1991-05-01"
-          }
-        ]
+        "name": ""
       }
-    ]
+    ],
+    "hardSkills": [],
+    "studies": []
   },
   "careerPreferences": {
     "contact": {
@@ -80,6 +65,11 @@
           "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [],
+      "discardedCompetences": [],
+      "preferredRoles": []
     }
   }
 }
