@@ -74,6 +74,29 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "La Media inglesa",
+          "description": "La Media inglesaLa Media inglesaLa Media inglesaLa Media inglesaLa Media inglesaLa Media inglesa",
+          "URL": "https://getmanfred.com/blog"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2011-05-01",
+            "finishDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Abstract",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
