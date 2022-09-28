@@ -6,8 +6,8 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedro",
-      "surnames": "Cousiño",
+      "name": null,
+      "surnames": null,
       "title": "Manfred / La Media Inglesa",
       "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .",
       "avatar": {
@@ -44,7 +44,46 @@
     "recommendations": []
   },
   "experience": {
-    "jobs": [],
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "URL": null
+        },
+        "roles": [
+          {
+            "name": "TEst Job Position",
+            "startDate": "2011-05-01",
+            "finishDate": "",
+            "challenges": [
+              {
+                "description": "TEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job Position"
+              }
+            ],
+            "competences": []
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Test",
+          "URL": null
+        },
+        "roles": [
+          {
+            "name": "Posición prueba",
+            "startDate": "1991-05-01",
+            "finishDate": "",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": []
+          }
+        ]
+      }
+    ],
     "projects": [],
     "publicArtifacts": []
   },
@@ -54,7 +93,14 @@
         "name": ""
       }
     ],
-    "hardSkills": [],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": []
   },
   "careerPreferences": {
