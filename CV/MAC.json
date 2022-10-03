@@ -12,7 +12,7 @@
       "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .",
       "avatar": {
         "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/23/d61df1be-c200-414d-9863-d925fc06bd8b_dddde4b4-20c8-403a-8.1516186062727"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/29/4f83e266-2ccb-4071-b6fb-f3b6cd113489_d61df1be-c200-414d-9.1516186062727"
       },
       "location": {
         "country": "España",
@@ -38,6 +38,20 @@
       {
         "topic": "Los Beatles son mi grupo favorito",
         "fact": "Desde pequeñito"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Test",
+        "type": "other",
+        "authors": [
+          {
+            "name": "Andre",
+            "surnames": "Agassi",
+            "title": "Author"
+          }
+        ],
+        "summary": "Andre AgassiAndre AgassiAndre AgassiAndre AgassiAndre AgassiAndre AgassiAndre AgassiAndre Agassi"
       }
     ]
   },
