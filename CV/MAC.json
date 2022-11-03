@@ -123,12 +123,16 @@
         "level": "Full professional proficiency"
       },
       {
+        "name": "French",
+        "level": "Limited working proficiency"
+      },
+      {
         "name": "Galician",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Romanian",
-        "level": "Limited working proficiency"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
